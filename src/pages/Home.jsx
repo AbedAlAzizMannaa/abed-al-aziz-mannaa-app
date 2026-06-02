@@ -11,7 +11,7 @@ function Home() {
         <div className="hero-left">
           <h1>
             <div style={{ display: "inline", color: "var(--main-color2)" }}>-</div>
-            Students <br />
+            Your <br />
             <span className="yello-text">Task Maneger</span>
           </h1>
 
